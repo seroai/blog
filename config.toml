@@ -10,14 +10,14 @@ category = "categories"
 
 [params]
 description = "Sero.ai Blog"
-keywords = ["sero.ai", "blog"]
+Keywords = ["sero.ai", "blog"]
 author = "Tom Tran"
 sharingicons = false
 displayauthor = true
 
 [params.highlight]
 style = "github"
-languages = ["go", "dockerfile"]
+Languages = ["go", "dockerfile"]
 
 [[params.social]]
 url = "http://sero.ai"
